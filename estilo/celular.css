@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+#telagrande { display: none}
+form { display: block}
+
+
+nav {
+    padding: 0px;
+}
+select {
+    width: 96.8vw;
+    padding: 8px;
+    background-color: rgb(82, 82, 82);
+    border: 2px solid black;
+}
+
+option {
+    background-color: rgb(114, 114, 114);
+    color: white;
+    font-size: bold;
+}
+
+#textmenu {
+    text-align: center;
+}
